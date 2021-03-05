@@ -1,4 +1,4 @@
-# Twiiter data manipulation
+# Twitter data manipulation
 
 The purpose of this project is to extract tweet in Portugal within year 2019.
 
